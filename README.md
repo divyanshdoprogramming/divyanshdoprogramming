@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dive</h1>
+<h1 align="center">Hi 👋, I'm Divyansh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshdoprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshdoprogramming" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Portfolio **Building Portfolio**
 
-- ⚡ Fun fact **Play Games**
+- ⚡ Fun fact **Play Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
